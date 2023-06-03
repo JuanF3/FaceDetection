@@ -9,5 +9,9 @@ https://www.dropbox.com/sh/hh27ad8xewjpdj1/AAABT5J1pKPWR1a11zYLQ6kXa?dl=0
 Make sure you have install the libraries: OpenCV and Tensorflow
 
 
+If you want to see the bulding process you could see the notebook "FaceDetection-es 260601 .ipynb"
+
+This application was made following the tutorial of Nicholas Renotte in the following youtube video https://youtu.be/N_W4EYtsa10
+
 
 
