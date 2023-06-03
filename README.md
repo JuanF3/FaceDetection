@@ -1,6 +1,8 @@
 # FaceDetection
 ![image](https://github.com/JuanF3/FaceDetection/assets/60745140/b85025df-7838-4bd9-9ef4-0cb44b2c30a7)
-Neural network face detection using a dataset with my face.
+Neural network face detection using a dataset with my face. 
+
+Note: The model works well using one face in the camera, and also works fine using another face different from me
 
 For test and use the model, you could download the file "main.py"
 In the same folder with the file, you need to have the model file, you can download in the following link:
